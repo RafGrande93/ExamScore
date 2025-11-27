@@ -27,5 +27,5 @@ Reported evaluation metrics on the test set include:
 - Mean Absolute Error (MAE)
 - R² score (coefficient of determination, R^2=0.72) 
 
-The R^2=0.73.
+The R^2=0.72.
 
