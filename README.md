@@ -1,7 +1,4 @@
-# ExamScore
-
-Exam Score Prediction
-=================================
+# Exam Score Prediction
 
 This project predicts student exam scores using a neural network built with TensorFlow/Keras.
 
